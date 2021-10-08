@@ -1,3 +1,3 @@
 # EDIBO-JM
-* H1 TicTacToe game H1
+* <h1> TicTacToe game <h1>
 * First game with pycharm 
